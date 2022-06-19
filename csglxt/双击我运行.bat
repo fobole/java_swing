@@ -1,0 +1,1 @@
+start resource/exe.exe
